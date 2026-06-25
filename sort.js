@@ -1,7 +1,1 @@
-var number =;
-
-number.sort(function(a, b){
-  return a - b;
-});
-
-console.log(number);
+var number = [19, 3, 81, 1, 24, 21];
